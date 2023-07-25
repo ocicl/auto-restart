@@ -1,0 +1,10 @@
+* auto-restart
+
+automatically generate restart-cases for the most common use cases, and also use the restart for automatic retries
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tdrhq/auto-restart.git   |
+| commit  | {"messa  |
+| systems | auto-restart |
+|---------+-------------------------------------------|
+
