@@ -4,7 +4,7 @@ automatically generate restart-cases for the most common use cases, and also use
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tdrhq/auto-restart.git   |
-| commit  | {"messa  |
+| commit  | ea439b8  |
 | systems | auto-restart |
 |---------+-------------------------------------------|
 
