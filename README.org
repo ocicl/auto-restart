@@ -2,9 +2,8 @@
 
 automatically generate restart-cases for the most common use cases, and also use the restart for automatic retries
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tdrhq/auto-restart.git   |
-| commit  | ea439b8  |
-| systems | auto-restart |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/tdrhq/auto-restart.git |
+| commit  | 5f85d56                                       |
+| systems | auto-restart                                  |
+|---------+-----------------------------------------------|
