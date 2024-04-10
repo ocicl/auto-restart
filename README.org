@@ -4,6 +4,6 @@ automatically generate restart-cases for the most common use cases, and also use
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/tdrhq/auto-restart.git |
-| commit  | b330710                                       |
+| commit  | 7c545ec                                       |
 | systems | auto-restart                                  |
 |---------+-----------------------------------------------|
